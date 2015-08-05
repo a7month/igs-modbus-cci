@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="39"
+   name=""
+   committed-date="2013-10-23T01:13:05.476200Z"
+   url="svn://10.45.7.40:30000/igs-modbus-cci/trunk/lib"
+   last-author="mikewang"
+   kind="dir"
+   uuid="c18ddf49-f98f-4173-9529-5273d87822aa"
+   repos="svn://10.45.7.40:30000"
+   revision="138"/>
+<entry
+   committed-rev="39"
+   name="geronimo-j2ee-connector_1.6_spec-1.0.jar"
+   text-time="2013-10-23T01:12:58.265625Z"
+   committed-date="2013-10-23T01:13:05.476200Z"
+   checksum="f4add9eb4ff4b8c4d7591852e6d04e5f"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-23T01:12:58.250000Z"/>
+<entry
+   committed-rev="39"
+   name="jamod-1.2-SNAPSHOT.jar"
+   text-time="2013-10-23T01:12:58.265625Z"
+   committed-date="2013-10-23T01:13:05.476200Z"
+   checksum="833b75f5b3c2ceb7e937e2ebcb6663e8"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-23T01:12:58.265625Z"/>
+</wc-entries>

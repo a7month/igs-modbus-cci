@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="39"
+   name=""
+   committed-date="2013-10-23T01:13:05.476200Z"
+   url="svn://10.45.7.40:30000/igs-modbus-cci/trunk/src/com/igs/modbus/jamod/intger"
+   last-author="mikewang"
+   kind="dir"
+   uuid="c18ddf49-f98f-4173-9529-5273d87822aa"
+   repos="svn://10.45.7.40:30000"
+   revision="138"/>
+<entry
+   committed-rev="39"
+   name="DefaultTcpMasterConnectionFactory.java"
+   text-time="2013-10-23T01:12:58.296875Z"
+   committed-date="2013-10-23T01:13:05.476200Z"
+   checksum="b3644c00b19604c1534c9d9160d19e1b"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-23T01:12:58.296875Z"/>
+<entry
+   committed-rev="39"
+   name="TcpMasterConnectionFactory.java"
+   text-time="2013-10-23T01:12:58.296875Z"
+   committed-date="2013-10-23T01:13:05.476200Z"
+   checksum="a5f8770a533ce7258f4c5532e1be16ac"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-23T01:12:58.296875Z"/>
+</wc-entries>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="61"
+   name=""
+   committed-date="2013-10-25T08:57:00.923253Z"
+   url="svn://10.45.7.40:30000/igs-modbus-cci/trunk/src/com/igs/modbus/jamod/editor"
+   last-author="mikewang"
+   kind="dir"
+   uuid="c18ddf49-f98f-4173-9529-5273d87822aa"
+   repos="svn://10.45.7.40:30000"
+   revision="138"/>
+<entry
+   committed-rev="61"
+   name="BitVectorEditor.java"
+   text-time="2013-10-29T08:28:09.906250Z"
+   committed-date="2013-10-25T08:57:00.923253Z"
+   checksum="500d5cb6a4f186be0a123cb0846f8184"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-29T08:28:09.906250Z"/>
+</wc-entries>

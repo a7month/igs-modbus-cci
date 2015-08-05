@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="115"
+   name=""
+   committed-date="2013-10-31T06:03:01.320090Z"
+   url="svn://10.45.7.40:30000/igs-modbus-cci/trunk/src/com/igs/modbus/cci/record"
+   last-author="mikewang"
+   kind="dir"
+   uuid="c18ddf49-f98f-4173-9529-5273d87822aa"
+   repos="svn://10.45.7.40:30000"
+   revision="138"/>
+<entry
+   committed-rev="75"
+   name="WriteCoilResponseRecord.java"
+   text-time="2013-10-29T08:28:10.015625Z"
+   committed-date="2013-10-29T01:03:53.167886Z"
+   checksum="a4fac7eac590cd0f0dc301380ff48962"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-29T08:28:10.000000Z"/>
+<entry
+   committed-rev="112"
+   name="WriteSingleRegisterResponseRecord.java"
+   text-time="2013-11-01T08:37:47.062500Z"
+   committed-date="2013-10-31T05:39:32.561293Z"
+   checksum="2ae8184ab1789954d87a5e291643e491"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T08:37:47.031250Z"/>
+<entry
+   committed-rev="97"
+   name="ModbusExceptionResponseRecord.java"
+   text-time="2013-11-01T08:37:47.062500Z"
+   committed-date="2013-10-30T08:44:39.941703Z"
+   checksum="3cdafa43165d63951a48ffb24335c1ed"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T08:37:47.031250Z"/>
+<entry
+   committed-rev="115"
+   name="ReadMultipleRegistersRequestRecord.java"
+   text-time="2013-11-01T08:37:47.062500Z"
+   committed-date="2013-10-31T06:03:01.320090Z"
+   checksum="f8ca930e2bad6047b64ad7aaf9f170c8"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T08:37:47.062500Z"/>
+<entry
+   committed-rev="75"
+   name="WriteMultipleCoilsRequestRecord.java"
+   text-time="2013-10-29T08:28:10.015625Z"
+   committed-date="2013-10-29T01:03:53.167886Z"
+   checksum="a4c0f7332bf87526786bf03c28ef3a18"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-29T08:28:10.000000Z"/>
+<entry
+   committed-rev="39"
+   name="WriteCoilRequestRecord.java"
+   text-time="2013-10-23T01:12:58.359375Z"
+   committed-date="2013-10-23T01:13:05.476200Z"
+   checksum="e86ba5403961c6def65425906a199614"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-23T01:12:58.359375Z"/>
+<entry
+   committed-rev="94"
+   name="WriteSingleRegisterRequestRecord.java"
+   text-time="2013-10-30T08:35:07.875000Z"
+   committed-date="2013-10-30T08:19:23.842339Z"
+   checksum="42380e021e11199ba707e63679d758f5"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-30T08:35:07.875000Z"/>
+<entry
+   committed-rev="39"
+   name="AbstractModbusRecord.java"
+   text-time="2013-10-23T01:12:58.359375Z"
+   committed-date="2013-10-23T01:13:05.476200Z"
+   checksum="f74a2a0f2027da6b09fbe2207d5bd84e"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-23T01:12:58.359375Z"/>
+<entry
+   committed-rev="78"
+   name="ReadMultipleRegistersResponseRecord.java"
+   text-time="2013-10-29T08:28:10.015625Z"
+   committed-date="2013-10-29T03:24:27.703965Z"
+   checksum="babce2524d762278971b24898dfeee39"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-29T08:28:10.000000Z"/>
+<entry
+   committed-rev="75"
+   name="WriteMultipleCoilsResponseRecord.java"
+   text-time="2013-10-29T08:28:10.015625Z"
+   committed-date="2013-10-29T01:03:53.167886Z"
+   checksum="13f91ede9c15cd284f86e299e11e1197"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-29T08:28:10.015625Z"/>
+</wc-entries>

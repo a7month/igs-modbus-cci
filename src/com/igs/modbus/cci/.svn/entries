@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="115"
+   name=""
+   committed-date="2013-10-31T06:03:01.320090Z"
+   url="svn://10.45.7.40:30000/igs-modbus-cci/trunk/src/com/igs/modbus/cci"
+   last-author="mikewang"
+   kind="dir"
+   uuid="c18ddf49-f98f-4173-9529-5273d87822aa"
+   repos="svn://10.45.7.40:30000"
+   revision="138"/>
+<entry
+   committed-rev="86"
+   name="RequestRecordFactory.java"
+   text-time="2013-10-30T08:35:07.718750Z"
+   committed-date="2013-10-30T01:11:03.473956Z"
+   checksum="2f7db2da2443a1324759c0ed06ca449d"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-30T08:35:07.718750Z"/>
+<entry
+   committed-rev="113"
+   name="ModbusRecordFactory.java"
+   text-time="2013-11-01T08:37:47.062500Z"
+   committed-date="2013-10-31T05:39:56.643203Z"
+   checksum="cd5f4dfd5b822f379595268cd4a4243d"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T08:37:47.015625Z"/>
+<entry
+   committed-rev="86"
+   name="ModbusConnectionFactory.java"
+   text-time="2013-10-30T08:35:07.890625Z"
+   committed-date="2013-10-30T01:11:03.473956Z"
+   checksum="3d679ea2050030d03fa1a822b30d1764"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-30T08:35:07.781250Z"/>
+<entry
+   committed-rev="43"
+   name="ModbusConnectionSpec.java"
+   text-time="2013-10-23T08:22:54.906250Z"
+   committed-date="2013-10-23T02:30:36.733586Z"
+   checksum="dc9f83bf62d74b87737b0f855042e24e"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-23T08:22:54.906250Z"/>
+<entry
+   committed-rev="39"
+   name="ModbusInteractionSpec.java"
+   text-time="2013-10-23T01:12:58.375000Z"
+   committed-date="2013-10-23T01:13:05.476200Z"
+   checksum="fc11df7dbfdef75d7f5542be840325da"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-23T01:12:58.312500Z"/>
+<entry
+   committed-rev="86"
+   name="ResponseRecordFactory.java"
+   text-time="2013-10-30T08:35:07.890625Z"
+   committed-date="2013-10-30T01:11:03.473956Z"
+   checksum="868f14483681df0ea4746c53a1ad5c71"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-30T08:35:07.781250Z"/>
+<entry
+   committed-rev="39"
+   name="ModbusResponseException.java"
+   text-time="2013-10-23T01:12:58.375000Z"
+   committed-date="2013-10-23T01:13:05.476200Z"
+   checksum="320e6374ea4159b342cf9ec4611c8147"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-23T01:12:58.328125Z"/>
+<entry
+   committed-rev="39"
+   name="RequestRecord.java"
+   text-time="2013-10-23T01:12:58.375000Z"
+   committed-date="2013-10-23T01:13:05.476200Z"
+   checksum="281bf2d0bcbc0bbb69eab9c80c2dc8ea"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-23T01:12:58.328125Z"/>
+<entry
+   committed-rev="39"
+   name="ModbusRecord.java"
+   text-time="2013-10-23T01:12:58.375000Z"
+   committed-date="2013-10-23T01:13:05.476200Z"
+   checksum="828ea924b897d42553cd31bfd2ab82cc"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-23T01:12:58.328125Z"/>
+<entry
+   committed-rev="86"
+   name="ModbusConnection.java"
+   text-time="2013-10-30T08:35:07.890625Z"
+   committed-date="2013-10-30T01:11:03.473956Z"
+   checksum="2e8ad583517a485731c7255f6b96a6d1"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-30T08:35:07.796875Z"/>
+<entry
+   committed-rev="88"
+   name="ModbusInteraction.java"
+   text-time="2013-10-30T08:35:07.906250Z"
+   committed-date="2013-10-30T01:12:05.511656Z"
+   checksum="f0303b64b1de9f82f957d3ac5e083273"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-30T08:35:07.828125Z"/>
+<entry
+   committed-rev="39"
+   name="ResponseRecord.java"
+   text-time="2013-10-23T01:12:58.390625Z"
+   committed-date="2013-10-23T01:13:05.476200Z"
+   checksum="681b28a185d04ab67104a91de6549edb"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-23T01:12:58.343750Z"/>
+<entry
+   name="record"
+   kind="dir"/>
+</wc-entries>
